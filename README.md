@@ -4,8 +4,9 @@ A simple Python Package makes you code faster
 
 ## Simple show
 
-```bash
-python3 -m rich
+```python3
+import subprocess
+subprocess.run(["python3", "-m", "rich"])
 ```
 
 is same to 
