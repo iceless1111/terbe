@@ -18,7 +18,8 @@ print("Exit code is:", status)
 
 ## Installation
 
-1. Download `terbe- ... .tar.gz`
-2. ```bash
-pip install terbe- ... .tar.gz
-```
+1. Download `terbe- ... .tar.gz`, it might in dist/
+2. Install
+   ```bash
+   pip install terbe- ... .tar.gz
+   ```
