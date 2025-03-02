@@ -2,7 +2,7 @@
 A simple Python Package makes you code faster
 
 
-Here's some example to show whats terbe
+## Simple show
 
 ```bash
 python3 -m rich
@@ -16,4 +16,7 @@ status = coding.Sandbox(["path/to/rich"])
 print("Exit code is:", status)
 ```
 
--# and much more functions are in docs
+## Installation
+
+1. Download `terbe- ... .tar.gz`
+2. ```bash pip install terbe- ... .tar.gz```
