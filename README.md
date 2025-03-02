@@ -6,7 +6,8 @@ A simple Python Package makes you code faster
 
 ```python3
 import subprocess
-subprocess.run(["python3", "-m", "rich"])
+status = subprocess.run(["python3", "-m", "rich"])
+print("Exit code is:", status)
 ```
 
 is same to 
