@@ -3,7 +3,9 @@ A simple Python Package makes you code faster
 
 Here's some example to show whats terbe
 
-`python3 -m rich`
+```bash
+python3 -m rich
+```
 
 is same to 
 
