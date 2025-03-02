@@ -1,0 +1,10 @@
+README.md
+setup.py
+terbe/__init__.py
+terbe/coding.py
+terbe/fs.py
+terbe/get.py
+terbe.egg-info/PKG-INFO
+terbe.egg-info/SOURCES.txt
+terbe.egg-info/dependency_links.txt
+terbe.egg-info/top_level.txt
