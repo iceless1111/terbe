@@ -1,6 +1,7 @@
 # Terbe
 A simple Python Package makes you code faster
 
+
 Here's some example to show whats terbe
 
 ```bash
@@ -14,3 +15,5 @@ from terbe import coding
 status = coding.Sandbox(["path/to/rich"])
 print("Exit code is:", status)
 ```
+
+-# and much more functions are in docs
